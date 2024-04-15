@@ -1,0 +1,14 @@
+langchain
+
+transformers
+einops
+accelerate
+
+safetensors
+
+bitsandbytes
+torch
+xformers
+
+sentencepiece
+protobuf
